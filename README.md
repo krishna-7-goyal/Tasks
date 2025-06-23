@@ -11,9 +11,9 @@ Welcome to **Day 1**. This repository contains a python Notebook that walks thro
 
 
 #Topics Covered
-    -Pandas DataFrame operations
-    -Encoding: LabelEncoding, OneHotEncoding
-    -Handling missing data
-    -Outlier detection techniques
-    -Converting between NumPy arrays and DataFrames
-    -Using ColumnTransformer and understanding output format
+    - Pandas DataFrame operations
+     -Encoding: LabelEncoding, OneHotEncoding
+     -Handling missing data
+     -Outlier detection techniques
+     -Converting between NumPy arrays and DataFrames
+     -Using ColumnTransformer and understanding output format
