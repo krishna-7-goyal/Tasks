@@ -54,4 +54,26 @@ Welcome to **Day 1**. This repository contains a python Notebook that walks thro
 ## Best Parameters from GridSearchCV
  - alpha: 10
  - fit_intercept: True
- - solver: 'sparse_cg'   
+ - solver: 'sparse_cg'
+
+
+# Day4
+
+## Overview
+
+- Dataset: Breast Cancer Wisconsin (Diagnostic)
+- Algorithm: Logistic Regression
+- Goal: Classify tumors as malignant or benign
+
+## Features covered
+
+- Exploratory Data Analysis (EDA)
+- Label Encoding
+- Data normalization
+- Heatmap visualization using seaborn
+- Model training using sklearn
+- Evaluation using:
+   - Confusion Matrix
+   - Precision, Recall, F1 Score
+   - ROC-AUC Curve
+- Threshold tuning for classification
