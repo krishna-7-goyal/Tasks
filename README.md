@@ -1,4 +1,4 @@
-# Day1
+# Task 1
 Welcome to **Day 1**. This repository contains a python Notebook that walks through key data preprocessing, cleaning, and transformation steps—commonly used as the foundation in data science or machine learning workflows.
 
 ## Contents
@@ -20,7 +20,7 @@ Welcome to **Day 1**. This repository contains a python Notebook that walks thro
 
      
 
-# Day2
+# Task 2
 
 ## Key Operations:
 
@@ -36,7 +36,7 @@ Welcome to **Day 1**. This repository contains a python Notebook that walks thro
 
 
 
-# Day3
+# Task 3
 
 ## Key Features
  - Data loading and exploration
@@ -57,7 +57,7 @@ Welcome to **Day 1**. This repository contains a python Notebook that walks thro
  - solver: 'sparse_cg'
 
 
-# Day4
+# Task 4
 
 ## Overview
 
@@ -77,3 +77,15 @@ Welcome to **Day 1**. This repository contains a python Notebook that walks thro
    - Precision, Recall, F1 Score
    - ROC-AUC Curve
 - Threshold tuning for classification
+
+# Task 5
+## Heart Disease Analysis
+This repository contains a Jupyter Notebook with Decision Tree and Random Forest algorithm implemented and compared. 
+
+## Notebook Content
+- Initial Exploration: Missing values, data cleaning, finding correletion
+- Training a Decision Tree Classifier and visualize the tree.
+- Analyzing overfitting and finding the suitable max depth of the tree having mac score/accuracy.
+- Training random forest classifier on the dataset and comparing the accuracy
+- Finding the important features of both the classifiers after fitting them.
+- Evaluating the algorithms using cross validation for better results.
