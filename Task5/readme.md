@@ -1,5 +1,5 @@
 # Heart Disease Analysis
-This repository contains a Jupyter Notebook for exploratory data analysis on a heart disease dataset. 
+This repository contains a Jupyter Notebook with Decision Tree and Random Forest algorithm implemented and compared. 
 
 ## Notebook Content
 - Initial Exploration: Missing values, data cleaning, finding correletion
