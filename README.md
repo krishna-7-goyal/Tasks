@@ -89,3 +89,22 @@ This repository contains a Jupyter Notebook with Decision Tree and Random Forest
 - Training random forest classifier on the dataset and comparing the accuracy
 - Finding the important features of both the classifiers after fitting them.
 - Evaluating the algorithms using cross validation for better results.
+
+
+# Task 6
+## K-Nearest Neighbors on Iris Dataset
+
+## Overview
+- Dataset: Iris flower dataset (150 samples, 3 classes)
+- Task: Classification using KNN
+- Dimensionality Reduction: PCA (2D transformation)
+- Model Evaluation: Accuracy, decision boundaries
+- Visualization: Matplotlib decision region plotting
+
+
+## Features
+- Data preprocessing and train-test split
+- PCA for 2D feature projection
+- Training KNN classifiers with different k values
+- Meshgrid-based visualization of decision boundaries
+- Performance comparison across multiple k values
